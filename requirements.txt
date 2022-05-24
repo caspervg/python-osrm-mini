@@ -1,7 +1,4 @@
 polyline
-GDAL
 numpy
 pandas
 shapely
-geopandas
-matplotlib
